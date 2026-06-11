@@ -86,6 +86,25 @@ devsecops-cicd-pipeline/
 6. EC2 server pulls latest image
 7. Existing container is replaced
 8. Application is updated automatically
+---
+
+## Screenshots
+
+### CI/CD Pipeline Success
+
+![Pipeline Success](screenshots/pipeline-success.png)
+
+### GitHub Actions Workflow
+
+![GitHub Actions](screenshots/github-actions-success.png)
+
+### Docker Hub Repository
+
+![Docker Hub](screenshots/dockerhub-repository.png)
+
+### Live Application on AWS EC2
+
+![Live Application](screenshots/live-application.png)
 
 ---
 
